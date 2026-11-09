@@ -1,0 +1,4 @@
+Pedro 2005 3.3
+Cristóbal 2002 2.5
+Gabriel 2005 3.4
+Sebastián 2000 3.6
